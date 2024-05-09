@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>MyVet Blog</title>
-        <link>https://your-docusaurus-site.example.com/microsite/blog</link>
+        <link>https://tqs-myvet.github.io/microsite/blog</link>
         <description>MyVet Blog</description>
         <lastBuildDate>Sun, 05 May 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[The Team]]></title>
-            <link>https://your-docusaurus-site.example.com/microsite/blog/team_presentation</link>
-            <guid>https://your-docusaurus-site.example.com/microsite/blog/team_presentation</guid>
+            <link>https://tqs-myvet.github.io/microsite/blog/team_presentation</link>
+            <guid>https://tqs-myvet.github.io/microsite/blog/team_presentation</guid>
             <pubDate>Sun, 05 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[---]]></description>
             <content:encoded><![CDATA[<hr>

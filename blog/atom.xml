@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-site.example.com/microsite/blog</id>
+    <id>https://tqs-myvet.github.io/microsite/blog</id>
     <title>MyVet Blog</title>
     <updated>2024-05-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-site.example.com/microsite/blog"/>
+    <link rel="alternate" href="https://tqs-myvet.github.io/microsite/blog"/>
     <subtitle>MyVet Blog</subtitle>
-    <icon>https://your-docusaurus-site.example.com/microsite/img/favicon.ico</icon>
+    <icon>https://tqs-myvet.github.io/microsite/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[The Team]]></title>
-        <id>https://your-docusaurus-site.example.com/microsite/blog/team_presentation</id>
-        <link href="https://your-docusaurus-site.example.com/microsite/blog/team_presentation"/>
+        <id>https://tqs-myvet.github.io/microsite/blog/team_presentation</id>
+        <link href="https://tqs-myvet.github.io/microsite/blog/team_presentation"/>
         <updated>2024-05-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[---]]></summary>
         <content type="html"><![CDATA[<hr>
