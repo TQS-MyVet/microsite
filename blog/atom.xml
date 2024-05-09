@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/microsite/blog</id>
+    <title>MyVet Blog</title>
+    <updated>2024-05-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/microsite/blog"/>
+    <subtitle>MyVet Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/microsite/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Team]]></title>
+        <id>https://your-docusaurus-site.example.com/microsite/blog/team_presentation</id>
+        <link href="https://your-docusaurus-site.example.com/microsite/blog/team_presentation"/>
+        <updated>2024-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[---]]></summary>
+        <content type="html"><![CDATA[<hr>
+<p>During the development of our application we spread the work to be done by sprints. Each sprint had a duration of 1 week and at the end of each sprint we had a meeting to discuss the work done and the work to be done in the next sprint.</p>
+<p>The distribution made is listed below:</p>
+<table><thead><tr><th>Sprint</th><th>Scrum Master</th><th>Product Owner</th><th>Developers</th></tr></thead></table>]]></content>
+        <author>
+            <name>Hugo Correia</name>
+            <uri>https://github.com/MrLoydHD</uri>
+        </author>
+        <author>
+            <name>Joaquim Rosa</name>
+            <uri>https://github.com/JakeRosa</uri>
+        </author>
+        <author>
+            <name>Alexandre Cotorobai</name>
+            <uri>https://github.com/AlexandreCotorobai</uri>
+        </author>
+        <author>
+            <name>Bernardo Figueiredo</name>
+            <uri>https://github.com/LeikRad</uri>
+        </author>
+    </entry>
+</feed>
