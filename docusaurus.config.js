@@ -16,13 +16,14 @@ const config = {
   url: 'https://tqs-myvet.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/microsite/',
-  
+  baseUrl: "/microsite/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'TQS-MyVet', // Usually your GitHub org/user name.
-  projectName: 'microsite', // Usually your repo name.
+  organizationName: "TQS-MyVet", // Usually your GitHub org/user name.
+  projectName: "microsite", // Usually your repo name.
+  trailingSlash: false,
+  deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
