@@ -1,17 +1,29 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+hugo:
+  name: Hugo Correia
+  url: https://github.com/MrLoydHD
+  image_url: https://github.com/MrLoydHD.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+alexandre:
+  name: Alexandre Cotorobai
+  url: https://github.com/AlexandreCotorobai
+  image_url: https://github.com/AlexandreCotorobai.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+bernardo:
+  name: Bernardo Figueiredo
+  url: https://github.com/LeikRad
+  image_url: https://github.com/LeikRad.png
+
+duarte:
+  name: Duarte Cruz
+  url: https://github.com/DuarteCruz31
+  image_url: https://github.com/DuarteCruz31.png
+
+andre:
+  name: André Oliveira
+  url: https://github.com/andreaoliveira9
+  image_url: https://github.com/andreaoliveira9.png
+
+jake:
+  name: Joaquim Rosa
+  url: https://github.com/JakeRosa
+  image_url: https://github.com/JakeRosa.png
