@@ -91,7 +91,7 @@ const config = {
             className: "jira-link",
           },
           {
-            to: "https://uapt33090-my.sharepoint.com/:f:/g/personal/bernardo_figueiredo_ua_pt/EvzubWWV1gJLl4sr07bo-jMBhzSnYWmK63SJfFBWmA_Iuw?e=jdymN6",
+            to: "https://uapt33090-my.sharepoint.com/:f:/g/personal/hf_correia_ua_pt/EkXn__neRspDgKCDCIGesOEBDUzSnVZlUPVOdF98KGZ_vQ?e=ljNAli",
             label: "Drive",
             position: "right",
             className: "drive-link",
